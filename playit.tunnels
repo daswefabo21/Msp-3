@@ -83,7 +83,7 @@
           "agent_id": "450bc5e6-efa4-4862-bc2d-163b3feed990",
           "agent_name": "Ip fija y voice chat",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 2095
         },
         "type": "agent"
       },
